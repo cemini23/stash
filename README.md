@@ -85,6 +85,11 @@ An 8-stage consolidation pipeline turns raw observations into structured knowled
 
 **[alash3al.github.io/stash →](https://alash3al.github.io/stash/)**
 
+## Related
+
+- Methodology newsletter: [Outlier Weekly](https://outlierweekly.substack.com)
+- Cemini projects: [cemini-claude-code-CCC](https://github.com/cemini23/cemini-claude-code-CCC) · [world-cup-bot](https://github.com/cemini23/world-cup-bot) · [agent toolkit](https://github.com/cemini23/vet) · [all public repos →](https://github.com/orgs/cemini23/repositories?q=visibility%3Apublic)
+
 ## License
 
 Apache 2.0
